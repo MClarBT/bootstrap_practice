@@ -1,0 +1,15 @@
+body {
+  padding-top: 54px;
+}
+
+.card-img-top {
+    width: 30%;
+    height: 30vh;
+    object-fit: cover;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
