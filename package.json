@@ -1,0 +1,19 @@
+{
+  "name": "image_gallery",
+  "version": "1.0.0",
+  "description": "This is for my image gallery project.",
+  "main": "index.js",
+  "repository": "https://github.com/MClarBT/bootstrap_practice.git",
+  "author": "Milen",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+   "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+     "node": ">=11.13.0"
+  }
+
+}
